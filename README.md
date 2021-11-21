@@ -6,7 +6,7 @@ https://realpython.com/python-api/#learning-advanced-api-concepts
 
 ## Configuration
 
-Create a `api.conf` file with the following structure:
+Create a `apis.conf` file with the following structure:
 
 ```ini
 [nasa]
