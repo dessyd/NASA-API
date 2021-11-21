@@ -1,5 +1,5 @@
 import requests
-from api import get_api_key, get_api_endpoint
+from apis import get_api_key, get_api_endpoint
 
 section = "nasa"
 
