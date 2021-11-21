@@ -1,4 +1,17 @@
 python3 -m venv venv 
 source venv/bin/activate 
 
+Generate NASA API Key
+
+Your API key for luxueux_denoue0s@icloud.com is:
+
+P9mHHXcyeZ5k0DONYAdNYBqjfVou274xsUw7S29Q
+You can start using this key to make web service requests. Simply pass your key in the URL when making a web request. Here's an example:
+
+https://api.nasa.gov/planetary/apod?api_key=P9mHHXcyeZ5k0DONYAdNYBqjfVou274xsUw7S29Q
+For additional support, please contact us. When contacting us, please tell us what API you're accessing and provide the following account details so we can quickly find you:
+
+Account Email: luxueux_denoue0s@icloud.com
+Account ID: 08313218-74ed-4e29-97ac-dd61bdee962f
+
 
