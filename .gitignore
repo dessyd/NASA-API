@@ -131,4 +131,4 @@ dmypy.json
 
 # My config variables
 config.py
-config.conf 
+api.conf 

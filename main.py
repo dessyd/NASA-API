@@ -2,7 +2,7 @@ import requests, configparser
 
 def get_api_key(section: str):
     config = configparser.ConfigParser()
-    config.read('config.conf')
+    config.read('api.conf')
     api_key = config[section]["api"]
     return api_key
 
